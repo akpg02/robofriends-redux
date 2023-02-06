@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/robofriends-redux/static/css/main.c6069cfb.css",
-    "main.js": "/robofriends-redux/static/js/main.51c0cb9f.js",
+    "main.css": "/robofriends-redux/static/css/main.783fb195.css",
+    "main.js": "/robofriends-redux/static/js/main.2f77ea79.js",
     "static/js/787.a6760965.chunk.js": "/robofriends-redux/static/js/787.a6760965.chunk.js",
     "service-worker.js": "/robofriends-redux/service-worker.js",
     "index.html": "/robofriends-redux/index.html",
-    "main.c6069cfb.css.map": "/robofriends-redux/static/css/main.c6069cfb.css.map",
-    "main.51c0cb9f.js.map": "/robofriends-redux/static/js/main.51c0cb9f.js.map",
+    "main.783fb195.css.map": "/robofriends-redux/static/css/main.783fb195.css.map",
+    "main.2f77ea79.js.map": "/robofriends-redux/static/js/main.2f77ea79.js.map",
     "787.a6760965.chunk.js.map": "/robofriends-redux/static/js/787.a6760965.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6069cfb.css",
-    "static/js/main.51c0cb9f.js"
+    "static/css/main.783fb195.css",
+    "static/js/main.2f77ea79.js"
   ]
 }
